@@ -6,3 +6,7 @@ ejTrack all files : git add *
 To check the status : git status
 To check the history : git log
 To get commit details along with filename : git show commit_id --name-only
+
+
+Hi this is Divya
+learning github
