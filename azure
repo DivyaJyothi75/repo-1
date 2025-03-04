@@ -1,0 +1,5 @@
+To create a file in linux : touch filename
+To see list of files : ll (or) ls
+ll vs ls
+ll : full info about files
+ls : it gives only file names
